@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"snake-eyes",
+			"cuphead",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"technicolor-tussle",
+			"cuphead",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"knockout",
+			"cupheadnight",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "The Best Cuphead FNF Mod",
+	"weekName": "",
+	"freeplayColor": [
+		0,
+		255,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

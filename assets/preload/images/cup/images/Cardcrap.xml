@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cardcrap.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Card Filled instance 10000" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10001" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10002" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10003" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10004" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10005" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10006" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10007" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10008" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10009" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10010" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10011" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10012" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10013" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10014" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10015" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10016" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10017" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10018" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10019" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10020" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10021" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10022" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10023" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10024" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10025" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10026" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10027" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10028" x="10" y="10" width="95" height="144" frameX="-1" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10029" x="115" y="10" width="88" height="143" frameX="-4" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10030" x="213" y="10" width="78" height="143" frameX="-9" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10031" x="301" y="10" width="63" height="143" frameX="-17" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10032" x="374" y="10" width="44" height="143" frameX="-26" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10033" x="428" y="10" width="21" height="143" frameX="-38" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10034" x="459" y="10" width="17" height="143" frameX="-40" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10035" x="486" y="10" width="46" height="143" frameX="-25" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10036" x="542" y="10" width="68" height="143" frameX="-14" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10037" x="620" y="10" width="84" height="143" frameX="-6" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10038" x="714" y="10" width="94" height="144" frameX="-1" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10039" x="818" y="10" width="97" height="144"/>
+	<SubTexture name="Card Filled instance 10040" x="714" y="10" width="94" height="144" frameX="-1" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10041" x="620" y="10" width="84" height="143" frameX="-6" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10042" x="542" y="10" width="68" height="143" frameX="-14" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10043" x="486" y="10" width="46" height="143" frameX="-25" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10044" x="459" y="10" width="17" height="143" frameX="-40" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10045" x="428" y="10" width="21" height="143" frameX="-38" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10046" x="374" y="10" width="44" height="143" frameX="-26" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10047" x="301" y="10" width="63" height="143" frameX="-17" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10048" x="213" y="10" width="78" height="143" frameX="-9" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10049" x="115" y="10" width="88" height="143" frameX="-4" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10050" x="10" y="10" width="95" height="144" frameX="-1" frameY="0" frameWidth="97" frameHeight="144"/>
+	<SubTexture name="Card Filled instance 10051" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10052" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10053" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10054" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10055" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10056" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10057" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10058" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10059" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Filled instance 10060" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Normal Pop out instance 10000" x="10" y="539" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10001" x="117" y="539" width="81" height="143" frameX="-14" frameY="0" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10002" x="208" y="539" width="29" height="143" frameX="-38" frameY="-4" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10003" x="888" y="318" width="13" height="143" frameX="-49" frameY="-9" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10004" x="836" y="318" width="42" height="143" frameX="-34" frameY="-15" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10005" x="742" y="318" width="84" height="143" frameX="-12" frameY="-32" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10006" x="247" y="539" width="109" height="122" frameX="0" frameY="-68" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10007" x="635" y="318" width="97" height="144" frameX="-6" frameY="-38" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10008" x="635" y="318" width="97" height="144" frameX="-6" frameY="-36" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10009" x="635" y="318" width="97" height="144" frameX="-6" frameY="-35" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10010" x="635" y="318" width="97" height="144" frameX="-6" frameY="-34" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10011" x="635" y="318" width="97" height="144" frameX="-6" frameY="-34" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10012" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10013" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10014" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10015" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10016" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10017" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10018" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10019" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10020" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10021" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10022" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10023" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10024" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10025" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Normal Pop out instance 10026" x="635" y="318" width="97" height="144" frameX="-6" frameY="-33" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Card Used instance 10000" x="10" y="164" width="97" height="144" frameX="0" frameY="0" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10001" x="10" y="164" width="97" height="144" frameX="0" frameY="-1" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10002" x="117" y="164" width="97" height="144" frameX="0" frameY="-3" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10003" x="224" y="164" width="97" height="139" frameX="0" frameY="-8" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10004" x="331" y="164" width="97" height="132" frameX="0" frameY="-15" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10005" x="438" y="164" width="97" height="123" frameX="0" frameY="-24" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10006" x="545" y="164" width="97" height="113" frameX="0" frameY="-34" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10007" x="652" y="164" width="97" height="100" frameX="0" frameY="-47" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10008" x="759" y="164" width="97" height="86" frameX="0" frameY="-61" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10009" x="866" y="164" width="97" height="70" frameX="0" frameY="-77" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10010" x="10" y="318" width="97" height="52" frameX="0" frameY="-95" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10011" x="117" y="318" width="97" height="31" frameX="0" frameY="-116" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10012" x="224" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10013" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10014" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10015" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10016" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10017" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10018" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10019" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10020" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card Used instance 10021" x="331" y="318" width="97" height="9" frameX="0" frameY="-138" frameWidth="97" frameHeight="147"/>
+	<SubTexture name="Card but flipped instance 10000" x="818" y="10" width="97" height="144"/>
+	<SubTexture name="PARRY Card Pop out  instance 10000" x="438" y="318" width="31" height="190" frameX="-39" frameY="-235" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10001" x="479" y="318" width="54" height="143" frameX="-27" frameY="-149" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10002" x="543" y="318" width="82" height="211" frameX="-13" frameY="-68" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10003" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10004" x="742" y="318" width="84" height="143" frameX="-12" frameY="-11" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10005" x="836" y="318" width="42" height="143" frameX="-33" frameY="-6" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10006" x="888" y="318" width="13" height="143" frameX="-49" frameY="-2" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10007" x="911" y="318" width="50" height="143" frameX="-28" frameY="-3" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10008" x="10" y="539" width="97" height="144" frameX="-6" frameY="-2" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10009" x="117" y="539" width="81" height="143" frameX="-14" frameY="0" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10010" x="208" y="539" width="29" height="143" frameX="-40" frameY="-4" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10011" x="888" y="318" width="13" height="143" frameX="-48" frameY="-9" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10012" x="836" y="318" width="42" height="143" frameX="-33" frameY="-15" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10013" x="742" y="318" width="84" height="143" frameX="-12" frameY="-32" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10014" x="247" y="539" width="109" height="122" frameX="0" frameY="-53" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10015" x="635" y="318" width="97" height="144" frameX="-6" frameY="-32" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10016" x="635" y="318" width="97" height="144" frameX="-6" frameY="-27" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10017" x="635" y="318" width="97" height="144" frameX="-6" frameY="-23" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10018" x="635" y="318" width="97" height="144" frameX="-6" frameY="-20" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10019" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10020" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10021" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10022" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10023" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10024" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10025" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10026" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10027" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10028" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10029" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10030" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="PARRY Card Pop out  instance 10031" x="635" y="318" width="97" height="144" frameX="-6" frameY="-18" frameWidth="109" frameHeight="425"/>
+	<SubTexture name="Charging instance 131" x="0" y="673" width="139" height="97" rotated="true"  frameX="-0" frameY="-1" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 130" x="139" y="673" width="136" height="97" rotated="true"  frameX="-0" frameY="-6" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 129" x="275" y="673" width="131" height="97" rotated="true"  frameX="-0" frameY="-11" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 128" x="406" y="673" width="125" height="97" rotated="true"  frameX="-0" frameY="-16" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 127" x="531" y="673" width="120" height="97" rotated="true"  frameX="-0" frameY="-20" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 126" x="651" y="673" width="115" height="97" rotated="true"  frameX="-0" frameY="-25" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 125" x="766" y="673" width="107" height="97" rotated="true"  frameX="-0" frameY="-35" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 124" x="0" y="770" width="100" height="97" rotated="true"  frameX="-0" frameY="-41" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 123" x="100" y="770"  width="97" height="96" frameX="-0" frameY="-47" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 122" x="197" y="770"  width="97" height="90" frameX="-0" frameY="-52" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 121" x="294" y="770"  width="97" height="83" frameX="-0" frameY="-59" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 120" x="873" y="673" width="79" height="97" rotated="true"  frameX="-0" frameY="-62" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 119" x="391" y="770"  width="97" height="75" frameX="-0" frameY="-67" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 118" x="488" y="770"  width="97" height="71" frameX="-0" frameY="-71" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 117" x="585" y="770"  width="97" height="65" frameX="-0" frameY="-76" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 116" x="682" y="770"  width="97" height="62" frameX="-0" frameY="-79" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 114" x="779" y="770"  width="97" height="58" frameX="-0" frameY="-87" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 115" x="876" y="770" width="57" height="97" rotated="true"  frameX="-0" frameY="-84" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 113" x="779" y="828"  width="97" height="54" frameX="-0" frameY="-91" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 112" x="682" y="832"  width="97" height="49" frameX="-0" frameY="-95" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 111" x="585" y="835"  width="97" height="43" frameX="-0" frameY="-101" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 110" x="488" y="841"  width="97" height="37" frameX="-0" frameY="-106" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 109" x="391" y="845"  width="97" height="34" frameX="-0" frameY="-109" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 108" x="294" y="853"  width="97" height="29" frameX="-0" frameY="-113" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 107" x="197" y="860"  width="97" height="25" frameX="-0" frameY="-116" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 106" x="100" y="866"  width="97" height="21" frameX="-0" frameY="-119" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 104" x="933" y="770" width="19" height="97" rotated="true"  frameX="-0" frameY="-123" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 105" x="0" y="867"  width="97" height="18" frameX="-0" frameY="-121" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 103" x="0" y="885"  width="97" height="15" frameX="-0" frameY="-126" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 102" x="488" y="878"  width="97" height="12" frameX="-0" frameY="-128" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 101" x="391" y="879"  width="97" height="9" frameX="-0" frameY="-130" frameWidth="97" frameHeight="147"/>
+  <SubTexture name="Charging instance 100" x="294" y="882"  width="97" height="7" frameX="-0" frameY="-132" frameWidth="97" frameHeight="147"/>
+</TextureAtlas>
